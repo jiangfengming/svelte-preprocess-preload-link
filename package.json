@@ -1,0 +1,29 @@
+{
+  "name": "svelte-preprocess-preload-link",
+  "version": "0.0.0",
+  "description": "Generate preload links",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiangfengming/svelte-preprocess-preload-link.git"
+  },
+  "keywords": [
+    "svelte",
+    "vite",
+    "preload"
+  ],
+  "author": "Jiang Fengming",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jiangfengming/svelte-preprocess-preload-link/issues"
+  },
+  "homepage": "https://github.com/jiangfengming/svelte-preprocess-preload-link#readme",
+  "devDependencies": {
+    "eslint": "^7.26.0",
+    "eslint-config-enough": "^0.7.0",
+    "eslint-plugin-ext": "^0.1.0"
+  }
+}
